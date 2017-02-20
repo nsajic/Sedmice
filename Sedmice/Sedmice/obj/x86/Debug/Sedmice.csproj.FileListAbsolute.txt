@@ -1,0 +1,45 @@
+D:\aFAX III\ORI\Sedmice\Sedmice\bin\Debug\Sedmice.exe
+D:\aFAX III\ORI\Sedmice\Sedmice\bin\Debug\Sedmice.pdb
+D:\aFAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Form1.resources
+D:\aFAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Properties.Resources.resources
+D:\aFAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.csproj.GenerateResource.Cache
+D:\aFAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.exe
+D:\aFAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.pdb
+D:\Aca fax\FAX FAX FAX\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.exe
+D:\Aca fax\FAX FAX FAX\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.pdb
+D:\aFAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.csprojResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\Sedmice\Sedmice\obj\x86\Debug\Sedmice.exe
+C:\Users\STUDENT\Desktop\Sedmice\Sedmice\obj\x86\Debug\Sedmice.pdb
+C:\Users\STUDENT\Desktop\Sedmice\Sedmice\bin\Debug\Sedmice.exe
+C:\Users\STUDENT\Desktop\Sedmice\Sedmice\bin\Debug\Sedmice.pdb
+C:\Users\STUDENT\Desktop\Sedmice\Sedmice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\STUDENT\Desktop\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Form1.resources
+C:\Users\STUDENT\Desktop\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Properties.Resources.resources
+C:\Users\STUDENT\Desktop\Sedmice\Sedmice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\STUDENT\Desktop\Sedmice\Sedmice\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.exe
+D:\FAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.pdb
+D:\FAX III\ORI\Sedmice\Sedmice\bin\Debug\Sedmice.exe
+D:\FAX III\ORI\Sedmice\Sedmice\bin\Debug\Sedmice.pdb
+D:\FAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.csprojResolveAssemblyReference.cache
+D:\FAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Form1.resources
+D:\FAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Properties.Resources.resources
+D:\FAX III\ORI\Sedmice\Sedmice\obj\x86\Debug\Sedmice.csproj.GenerateResource.Cache
+D:\aFAX IV\Soft\Projekat - Sedmice\Sedmice\Sedmice\obj\x86\Debug\Sedmice.exe
+D:\aFAX IV\Soft\Projekat - Sedmice\Sedmice\Sedmice\obj\x86\Debug\Sedmice.pdb
+D:\aFAX IV\Soft\Projekat - Sedmice\Sedmice\Sedmice\bin\Debug\Sedmice.exe
+D:\aFAX IV\Soft\Projekat - Sedmice\Sedmice\Sedmice\bin\Debug\Sedmice.pdb
+D:\aFAX IV\Soft\Projekat - Sedmice\Sedmice\Sedmice\obj\x86\Debug\Sedmice.csprojResolveAssemblyReference.cache
+D:\aFAX IV\Soft\Projekat - Sedmice\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Form1.resources
+D:\aFAX IV\Soft\Projekat - Sedmice\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Properties.Resources.resources
+D:\aFAX IV\Soft\Projekat - Sedmice\Sedmice\Sedmice\obj\x86\Debug\Sedmice.ServerSide.resources
+D:\aFAX IV\Soft\Projekat - Sedmice\Sedmice\Sedmice\obj\x86\Debug\Sedmice.csproj.GenerateResource.Cache
+C:\Users\Nikola\Desktop\FAX\Soft experiment\Sedmice\Sedmice\obj\x86\Debug\Sedmice.exe
+C:\Users\Nikola\Desktop\FAX\Soft experiment\Sedmice\Sedmice\obj\x86\Debug\Sedmice.pdb
+C:\Users\Nikola\Desktop\FAX\Soft experiment\Sedmice\Sedmice\bin\Debug\Sedmice.exe
+C:\Users\Nikola\Desktop\FAX\Soft experiment\Sedmice\Sedmice\bin\Debug\Sedmice.pdb
+C:\Users\Nikola\Desktop\FAX\Soft experiment\Sedmice\Sedmice\obj\x86\Debug\Sedmice.csprojResolveAssemblyReference.cache
+C:\Users\Nikola\Desktop\FAX\Soft experiment\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Form1.resources
+C:\Users\Nikola\Desktop\FAX\Soft experiment\Sedmice\Sedmice\obj\x86\Debug\Sedmice.Properties.Resources.resources
+C:\Users\Nikola\Desktop\FAX\Soft experiment\Sedmice\Sedmice\obj\x86\Debug\Sedmice.ServerSide.resources
+C:\Users\Nikola\Desktop\FAX\Soft experiment\Sedmice\Sedmice\obj\x86\Debug\Sedmice.csproj.GenerateResource.Cache
